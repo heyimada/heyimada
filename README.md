@@ -1,4 +1,4 @@
-## hey, i'm mina.
+## hey, i'm ada.
 ### about
 - full stack engineer
 - professional: java (ee, spring), typescript (angular, next.js, react)
